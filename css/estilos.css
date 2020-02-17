@@ -14,3 +14,11 @@ img {
     margin: auto;
 }
 
+#body {
+    margin: auto;
+    margin-top: 60px;
+    width: 900px;
+    height: 300px;
+    border: 1px; solid;
+    }
+
