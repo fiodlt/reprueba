@@ -133,6 +133,9 @@ aside a {
 aside img {
   max-width: 100%;
 }
+p {
+  text-align: justify;
+}
 
 footer {
   margin-top: 10px;
@@ -142,13 +145,4 @@ footer {
   color: #2a2a2a;
 }
 
-    
-    #container h1
-    {
-        font-size: 20px;
-    }
-    #post
-    {
-        padding: 1em;
-    }
 
